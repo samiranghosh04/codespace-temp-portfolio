@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "BBC Web Scraper",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This is a simple web scraper. It fetches the latest articles from the BBC website and prints an array of objects called 'articles' to the console. Each object contains the headline and the link to the article.",
+    url: "https://github.com/samiranghosh04/bbc-article-web-scraper",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Image Search Algorithm",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This is a simple schema and algorithm to store images in a weaviate database, then upload another image and find the closest possible match in the database.",
+    url: "https://github.com/samiranghosh04/weaviate-img.srch.algo",
   },
   {
-    title: "My Resume Site",
+    title: "CryptoPulse",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Fetched the data of the top 120 cryptocurrencies from a public API and displayed it in a table using React and Tailwind.",
+    url: "https://github.com/samiranghosh04/cryptopulse",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: " Daily Climate Data Visualization - Delhi",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This repository contains a Python script that reads daily climate data from a CSV file and visualizes it using Matplotlib.",
+    url: "https://github.com/samiranghosh04/eda-masters-minor",
   },
 ];
 
